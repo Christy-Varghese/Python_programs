@@ -1,0 +1,13 @@
+//to generate random numbers
+import random
+random.randint(a,b)
+{where a and b are the limits}
+
+#import complex math module
+
+import cmath
+{complex mathematical funcctions can called by using cmath.sqrt}
+
+#to use calendar
+import calendar is used
+calendar.month(yy,mm)
